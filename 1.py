@@ -15,3 +15,4 @@ for i in range(10):
     f.close()
     time.sleep(2)
 
+print('qwerty')
